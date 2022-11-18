@@ -1,0 +1,17 @@
+{
+    "name": "wrapperstore",
+    "type": "module",
+    "version": "0.0.1",
+    "desription": "Demo on APIsauce to connect to apis",
+    "main": "index.js",
+    "scripts": {
+      "tests": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Kevin Rodriguez",
+    "license": "MIT",
+    "dependencies": {
+      "apisauce": "^2.1.6",
+      "base-64": "^1.0.0"
+    }
+  }
+  
